@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code or these slides, please cite this repository."
+type: software
+title: "Data Science Club @ University of California, Santa Barbara's Computer Vision Workshop"
+authors:
+  - family-names: "Ramirez"
+    given-names: "Jakob"
+license: Apache-2.0
+date-released: 2026-02-16
+version: "0.1.0"
+repository-code: "https://github.com/jaekop/Computer-Vision-Workshop"
+url: "https://github.com/jaekop/Computer-Vision-Workshop"
+preferred-citation:
+  type: software
+  title: "Data Science Club @ University of California, Santa Barbara's Computer Vision Workshop"
+  authors:
+    - family-names: "Ramirez"
+      given-names: "Jakob"
+  year: 2026
+  version: "0.1.0"
+  url: "https://github.com/jaekop/Computer-Vision-Workshop"
