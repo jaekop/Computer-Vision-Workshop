@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.py[cod]
+.venv/
+.env
+data/*.npz
+models/*.joblib
+reports/*.json
+.DS_Store
+
